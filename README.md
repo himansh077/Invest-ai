@@ -8,7 +8,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-cyan?logo=tailwindcss)](https://tailwindcss.com/)
 
-🚀 **[→ Live Demo: invest-ai-inky.vercel.app](https://invest-ai-inky.vercel.app/)**
+🚀 **[→ Live Demo: invest-ai-inky.vercel.app](https://invest-ai-core.vercel.app/)**
 
 ---
 
