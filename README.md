@@ -2,11 +2,13 @@
 
 > **Production-quality, Qlib-inspired AI Investment Research Platform** — 8 modular LLM agents that analyze any public company in real-time and deliver a structured, evidence-backed investment verdict with full explainability.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-invest--ai-brightgreen?logo=vercel)](https://github.com/himansh077/Invest-ai)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-invest--ai-brightgreen?logo=vercel)](https://invest-ai-inky.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph.js-1.4-purple)](https://github.com/langchain-ai/langgraphjs)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-cyan?logo=tailwindcss)](https://tailwindcss.com/)
+
+🚀 **[→ Live Demo: invest-ai-inky.vercel.app](https://invest-ai-inky.vercel.app/)**
 
 ---
 
